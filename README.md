@@ -9,7 +9,7 @@ This is a pretty linear jupyter notebook, intended for each cell to run one afte
 ## Data
 Data files in this repo are directly drawn from the following sources:
 * Correlates of War (CoW) interstate war (v4) [4]
-* Polity (v5ish) [3]
+* Polity (v5) [3]
 * CoW direct contiguity (v3.2) [5]
 
 These are included solely for ease of replication. For new analyses, we recommend sourcing the most up-to-date files from each source individually.
